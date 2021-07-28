@@ -1,0 +1,38 @@
+@media (max-width: 600px) { 
+    nav{
+        width: 100%;
+        padding: 10px;
+    }
+    nav .logo{
+        width: 100%;
+        
+    
+    }
+    nav .logo img{
+        width: 40%;
+        margin: 0 auto;
+        display:block;
+    }
+    nav .items{
+        width: 100%;
+    
+    }
+    nav .items a:nth-child(1){
+        display: none;
+    }
+    .slider__item{
+
+        width: 100%;
+    }
+    .row1__products__section section{
+        width: 100%;
+        display: block;
+        margin-left: 5%;
+    }
+    aside form{
+        width: 90%;
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+ }

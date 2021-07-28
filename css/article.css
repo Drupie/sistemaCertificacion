@@ -1,0 +1,27 @@
+.banner__manto--articles
+{
+    width: 100%;
+}
+.banner__manto--articles img{
+display: block;
+width: 80%;
+margin: 0 auto;
+height: auto;
+}
+.banner__manto--articles article{
+    width: 90%;
+    margin: 0 auto;
+}
+.banner__manto--articles  h1{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.banner__manto--articles article ul{
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.banner__manto--articles article ul li{
+    margin-top: 30px;
+}
